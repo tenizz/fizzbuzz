@@ -1,12 +1,12 @@
 body{
-	background-color: #ffde7a;
+	background-color: #382c00;
 }
 
 h1{
 	text-align: center;
 	color: #fce7a7;
 	font-size: 100px;
-	background: #ffd352;
+	background: #3b2e00;
 	border-radius: 5px;
 }
 
@@ -15,26 +15,19 @@ button[type=button] {
 	font-size: 50px;
 	height: 100px;
 	width: 100%;
-	/*width: 500px;
-	position: fixed;
-	top: 50%;
-	left: 50%;
-	margin-top: -50px;
-	margin-left: -250px;*/
 	float: center;
 	border: 0;
-	background: #ffd352;
+	background: #3b2e00;
 	color: #fce7a7;
 	padding: 12px 50px;
 	border-radius: 5px;
 	cursor: pointer;
 	transition: 0.3s;
-
 }
 
 div{
 	border-radius: 5px;
-	background: #ffd352;
+	background: #3b2e00;
 }
 
 h2{
@@ -42,7 +35,6 @@ h2{
 	color: #fce7a7;
 	font-size: 40px;
 	text-align: center;
-	
 }
 
 h4{
